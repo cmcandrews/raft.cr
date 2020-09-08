@@ -11,8 +11,3 @@ targets:
 crystal: 0.35.1
 
 license: MIT
-
-dependencies:
-  timer:
-    github: vladfaust/timer.cr
-    version: ~> 0.1.0
